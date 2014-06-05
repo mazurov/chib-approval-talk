@@ -1,0 +1,3 @@
+#!/bin/sh
+
+latexmk -jobname=mazurov-chib-approval -pdf --outdir=build  main.tex
